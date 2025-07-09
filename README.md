@@ -7,8 +7,8 @@ At BioSpark Studios, we fuse narrative depth, procedural design, and interactive
 
 ## 🧠 Core Projects (WIP)
 - **Xyrona Prime** — a narrative universe weaving celestial mechanics with factional dynamics and philosophical depth.
-- **Narrative Modular Engine** — tools to integrate procedural storytelling in interactive experiences.
-- **Event Media Kits** — promo packages for upcoming showcases and creative jams.
+- **Story Weaver by BioSpark Studios** — A node-based toolset to integrate procedural storytelling in interactive experiences.
+- **Song Weaver by BioSpark Studios** - Event Media Kits — promo packages for upcoming showcases and releases.  Contains Song Creator and Prompt Generator, Artist Biography Creator, and Album Builder.  Meant to be simple and easy to use.
 
 ## 👥 Team
 - Jeremy Dickinson (Creative Director)
