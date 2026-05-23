@@ -1,4 +1,4 @@
-# 🌌 BioSpheres Studios — Master Ecosystem Map
+# 🌌 BioSpark Studios — Master Ecosystem Map
 
 > **BIOSPHERES-OS is the runtime. The Quantum ecosystem is the engine inside it. The InterStellar Tour is an Agentic Concert that explores autonomous agent workflows and production pipelines..**
 
@@ -308,4 +308,4 @@ On-chain representation of in-world trading entities, connecting the Xyrona Prim
 
 ---
 
-*BioSphark Studios — Building the creative OS that linear tools never could.*
+*BioSpark Studios — Building the creative OS that linear tools never could.*
