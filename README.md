@@ -1,6 +1,6 @@
-# 🌌 BioSpark Studios — Master Ecosystem Map
+# 🌌 BioSpheres Studios — Master Ecosystem Map
 
-> **BioSpark-OS is the runtime. The Quantum ecosystem is the engine inside it. The InterStellar Tour is the first product built on top of that engine.**
+> **BIOSPHERES-OS is the runtime. The Quantum ecosystem is the engine inside it. The InterStellar Tour is an Agentic Concert that explores autonomous agent workflows and production pipelines..**
 
 BioSpark Studios is an independent creative technology studio building a modular, local-first creative operating system. The core philosophy: stories, music, and creative elements are composable and remixable data — the same way a DJ works with tracks. Everything in the ecosystem is an **instrument**: something that either generates raw material or shapes existing signal. The line between the two is intentionally blurred.
 
@@ -8,7 +8,7 @@ BioSpark Studios is an independent creative technology studio building a modular
 
 ## Table of Contents
 
-- [BioSpark-OS](#1-biospark-os)
+- [BioSpheres-OS](#1-biospheres-os)
 - [The Quantum Quill Ecosystem](#2-the-quantum-quill-ecosystem)
 - [BioSpheres](#3-biospheres)
 - [Agentic Frameworks](#4-agentic-frameworks--entities)
@@ -21,19 +21,19 @@ BioSpark Studios is an independent creative technology studio building a modular
 
 ---
 
-## 1. BioSpark-OS
+## 1. BioSpheres-OS
 
-The unified creative operating system and product environment targeting a **2026 launch**. BioSpark-OS is platform-agnostic — it is not tied to any specific desktop environment or hardware. The long-term vision is a **bootable Linux distribution written in Rust**, with `.qgenesis` and `.qgcp` as the native container formats underpinning the entire OS layer.
+The unified creative operating system and product environment targeting a **2026 launch**. BioSpheres-OS is platform-agnostic — it is not tied to any specific desktop environment or hardware. The long-term vision is a **bootable Linux distribution written in Rust**, with `.qgenesis` and `.qgcp` as the native container formats underpinning the entire OS layer.
 
-The design language is governed by the **BioSpark Quantum Mythic Futurist Design System (BQMFDS)** — a Cyber-Tech Luxury aesthetic built on three philosophical pillars:
+The design language is governed by the **BioSpheres Quantum Mythic Futurist Design System (BQMFDS)** — a Cyber-Tech Luxury aesthetic built on three philosophical pillars:
 
 - **Quantum Theory** — superposition, probability, and emergence as creative mechanics
 - **Mythical Identity** — symbolic systems, heraldic authority, and world-as-living-entity
 - **Futuristic Outlook** — clean technical precision, bioluminescent palette, forward-facing aesthetics
 
-Visually: dark backgrounds, aqua primary (`#00c8b4`), accent rose (`#EC4899`), Zenith Gold (`#d4a030`), Cinzel Decorative + Share Tech Mono typography, glass morphism, iridescent and metallic materials, and sacred geometry throughout. Agent appearances, signal flows, and node activations carry their own distinct visual grammar — defined in the **BioSpark Design Codex** (interactive HTML, five Books) so any developer working in the ecosystem knows exactly what system they are inside.
+Visually: dark backgrounds, aqua primary (`#00c8b4`), accent rose (`#EC4899`), Zenith Gold (`#d4a030`), Cinzel Decorative + Share Tech Mono typography, glass morphism, iridescent and metallic materials, and sacred geometry throughout. Agent appearances, signal flows, and node activations carry their own distinct visual grammar — defined in the **BioSpheres Design Codex** (interactive HTML, five Books) so any developer working in the ecosystem knows exactly what system they are inside.
 
-A formal **BioSpark Design Codex** documents the complete system: every UI state, motion behavior, signal flow, node interaction, and faction-specific visual treatment.
+A formal **BioSpheres Design Codex** documents the complete system: every UI state, motion behavior, signal flow, node interaction, and faction-specific visual treatment.
 
 ---
 
@@ -131,13 +131,13 @@ The architectural foundation is complete: the `.qgcp` format defines container r
 ## 4. Agentic Frameworks & Entities
 
 ### 🏛️ The Order of the Quantum Quill (OOtQQ)
-The central governing body and administrative layer for all agentic systems in the BioSpark ecosystem. The Order is organized as a 5-layer hierarchy:
+The central governing body and administrative layer for all agentic systems in the BioSpheres ecosystem. The Order is organized as a 5-layer hierarchy:
 
 ```
 Directors → Overseers → OOtQQ Crew → Actors → Tools
 ```
 
-All named agents belong to the Order — including Quill, Verenthis, Noxvir, Solvane, Ashvel, Kolmara, Tharindrel, Vaelithos, Soralinde, the Aetheric Cartographer, and others. Currently active with approximately **175 followers** and **300+ songs** released under BioSpark Studios.
+All named agents belong to the Order — including Quill, Verenthis, Noxvir, Solvane, Ashvel, Kolmara, Tharindrel, Vaelithos, Soralinde, the Aetheric Cartographer, and others. Currently active with approximately **175 followers** and **300+ songs** released under BioSpheres Studios.
 
 Key architectural features:
 - **Resonance economy** — agents earn and spend resonance to act
@@ -176,7 +176,7 @@ The core structural standard: `Genesis Container → Mythos Container → Contai
 - **`.qgenesis`** — the primary container for a world, narrative, or creative system. Fluid and modular until **Sealed**, at which point it becomes cryptographically immutable.
 - **`.qgcp` (Quantum Genesis Container Package)** — the mountable, encrypted package format for storing and transporting sealed Genesis Containers. Includes Seal-based key derivation, cross-container dependency tracking, and a mount registry.
 
-### 🛡️ The BioSpark Heraldic Control System
+### 🛡️ The BioSpheres Heraldic Control System
 A foundational symbolic taxonomy that operates as an immutable logic layer — not cosmetic decoration. Governs: UI states, Vault access permissions, entity authority levels, agent guild affiliation, theme application, and generator conditioning.
 
 The primary tier structure:
@@ -214,7 +214,7 @@ Handles the full pipeline from world generation to music release without manual 
 Deployable AI context packages. Each `.skill` file bundles system rules, architectural decisions, TypeScript interfaces, and routing instructions into a zip mountable as context for any LLM session. Current library includes instruments for world generation, agent architecture, heraldry, local stack configuration, tour pipeline, artist creation, splash screen generation, asset page building, and more.
 
 ### 🗄️ Local-First Stack
-All BioSpark projects default to a fully local architecture:
+All BioSpheres projects default to a fully local architecture:
 - **Rust** (OS/server layer)
 - **FastAPI** (Python application backend)
 - **SQLite + Drizzle** (primary persistence)
@@ -229,13 +229,13 @@ Cloud providers are fallback only, used exclusively when a deployment target exp
 
 ## 7. Media, Distribution & Outreach
 
-### 📋 BioSpark EPK
-The artist media kit and creative dispatch suite. Manages artist profiles, bios, visual identity, and release materials. Serves as the primary onboarding pipeline for the BioSpark InterStellar Tour.
+### 📋 BioSpheres EPK
+The artist media kit and creative dispatch suite. Manages artist profiles, bios, visual identity, and release materials. Serves as the primary onboarding pipeline for the BioSpheres InterStellar Tour.
 
 ### 🎵 Composer Module
-Production pipeline for BioSpark acts — MIDI generation, prompt building, album sequencing, and release prep. Connects directly to DistroKid for distribution.
+Production pipeline for BioSpheres acts — MIDI generation, prompt building, album sequencing, and release prep. Connects directly to DistroKid for distribution.
 
-### 🚀 BioSpark InterStellar Tour
+### 🚀 BioSpheres InterStellar Tour
 The first full product pipeline built on the Quantum ecosystem. Onboarding flow:
 - World eligibility triage (Genesis Container must meet minimum sealing criteria)
 - EPK production
@@ -244,7 +244,7 @@ The first full product pipeline built on the Quantum ecosystem. Onboarding flow:
 - Press and social cadence
 - Contract framework via the Order of the Quantum Quill
 
-Currently managing **~175 followers** and **300+ songs** across active BioSpark acts.
+Currently managing **~175 followers** and **300+ songs** across active BioSpheres acts.
 
 ### 🎨 Radian Arts
 Modular visual tooling for cinematic splash screens and onboarding flows. Each of the 16 Instruments has a commissioned splash screen. Also produces faction-specific visual treatments for the five Crests.
@@ -253,7 +253,7 @@ Modular visual tooling for cinematic splash screens and onboarding flows. Each o
 
 ## 8. Xyrona Prime
 
-The primary science-fantasy universe and canonical content domain for BioSpark-OS. K2V star system. Five races with locked vertical strata:
+The primary science-fantasy universe and canonical content domain for BioSpheres-OS. K2V star system. Five races with locked vertical strata:
 
 | Faction | Stratum | Element | Color |
 |---------|---------|---------|-------|
@@ -270,7 +270,7 @@ Approximately **1,000 GLTF 3D models** ready for Vault deployment. Nine thaumic 
 ## 9. Web3 & Charitable Projects
 
 ### 🐾 AavePet
-A Web3 project on the **Base network**. Beyond its trading mechanics, AavePet anchors the BioSpark charitable framework — tour revenue and ecosystem proceeds are routed toward AavePet and future BioSpark-sponsored charitable initiatives rather than external organizations. Additional charitable projects will be created or sponsored under the BioSpark umbrella as the ecosystem grows.
+A Web3 project on the **Base network**. Beyond its trading mechanics, AavePet anchors the BioSpheres charitable framework — tour revenue and ecosystem proceeds are routed toward AavePet and future BioSpheres-sponsored charitable initiatives rather than external organizations. Additional charitable projects will be created or sponsored under the BioSpheres umbrella as the ecosystem grows.
 
 ### 🔮 Merchant Glyphs
 On-chain representation of in-world trading entities, connecting the Xyrona Prime economy to verifiable blockchain state via smart contracts on Base.
@@ -308,4 +308,4 @@ On-chain representation of in-world trading entities, connecting the Xyrona Prim
 
 ---
 
-*BioSpark Studios — Building the creative OS that linear tools never could.*
+*BioSphark Studios — Building the creative OS that linear tools never could.*
